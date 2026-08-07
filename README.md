@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
+| [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
@@ -25,5 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
