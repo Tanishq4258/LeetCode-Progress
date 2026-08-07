@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
+| [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
