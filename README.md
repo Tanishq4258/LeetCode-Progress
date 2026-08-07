@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0092-reverse-linked-list-ii) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
