@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
