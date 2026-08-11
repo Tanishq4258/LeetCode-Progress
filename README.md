@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
+| [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -56,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0175-combine-two-tables) |
+## Sorting
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
+## Simulation
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
