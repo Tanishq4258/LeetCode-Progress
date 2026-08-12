@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
