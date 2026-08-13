@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 ## Dynamic Programming
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -67,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 ## Simulation
 |  |
@@ -82,4 +86,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
