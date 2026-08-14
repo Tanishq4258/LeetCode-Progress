@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0092-reverse-linked-list-ii) |
+| [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
