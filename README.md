@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
+| [1328-break-a-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1328-break-a-palindrome) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
+| [1328-break-a-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1328-break-a-palindrome) |
 ## Stack
 |  |
 | ------- |
