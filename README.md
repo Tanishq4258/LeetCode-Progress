@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
+| [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
+| [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
