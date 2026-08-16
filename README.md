@@ -30,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
 | ------- |
+| [2162-minimum-cost-to-set-cooking-time](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2162-minimum-cost-to-set-cooking-time) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
