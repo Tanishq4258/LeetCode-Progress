@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0984-string-without-aaa-or-bbb) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0767-reorganize-string) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0984-string-without-aaa-or-bbb) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1328-break-a-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1328-break-a-palindrome) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Stack
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0767-reorganize-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Counting Sort
 |  |
 | ------- |
