@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 | [2498-frog-jump-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2498-frog-jump-ii) |
 ## Dynamic Programming
