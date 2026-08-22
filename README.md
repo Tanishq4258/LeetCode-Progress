@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
+| [2498-frog-jump-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2498-frog-jump-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1328-break-a-palindrome) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
+| [2498-frog-jump-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2498-frog-jump-ii) |
 ## String
 |  |
 | ------- |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0402-remove-k-digits) |
+## Binary Search
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
