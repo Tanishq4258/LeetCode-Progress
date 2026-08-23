@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
+| [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 ## Counting
 |  |
