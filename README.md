@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0402-remove-k-digits) |
