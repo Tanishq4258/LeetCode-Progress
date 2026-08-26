@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0402-remove-k-digits) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2574-left-and-right-sum-differences) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
