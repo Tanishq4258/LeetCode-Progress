@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
 | [2162-minimum-cost-to-set-cooking-time](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2162-minimum-cost-to-set-cooking-time) |
