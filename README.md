@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0409-longest-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0409-longest-palindrome) |
