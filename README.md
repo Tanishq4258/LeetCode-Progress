@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0402-remove-k-digits) |
