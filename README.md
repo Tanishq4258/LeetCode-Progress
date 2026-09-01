@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0409-longest-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0767-reorganize-string) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0767-reorganize-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
