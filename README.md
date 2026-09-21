@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
+| [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0409-longest-palindrome) |
+| [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0767-reorganize-string) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2574-left-and-right-sum-differences) |
 ## Range Minimum/Maximum Query
 |  |
