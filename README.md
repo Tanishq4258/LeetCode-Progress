@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
