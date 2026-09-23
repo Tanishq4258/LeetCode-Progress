@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
@@ -232,12 +233,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [2498-frog-jump-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2498-frog-jump-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 | [2574-left-and-right-sum-differences](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2574-left-and-right-sum-differences) |
 ## Range Minimum/Maximum Query
@@ -263,5 +266,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
