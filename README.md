@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
+| [0665-non-decreasing-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0860-lemonade-change) |
