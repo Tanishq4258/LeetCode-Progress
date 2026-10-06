@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0092-reverse-linked-list-ii) |
 | [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0206-reverse-linked-list) |
 ## Counting
 |  |
 | ------- |
