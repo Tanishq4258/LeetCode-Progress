@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0217-contains-duplicate) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0079-word-search) |
 ## Database
 |  |
@@ -298,10 +301,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0079-word-search) |
 | [1079-letter-tile-possibilities](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0079-word-search) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
