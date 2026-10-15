@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0665-non-decreasing-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Linked List
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [1079-letter-tile-possibilities](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1079-letter-tile-possibilities) |
 ## Depth-First Search
 |  |
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
