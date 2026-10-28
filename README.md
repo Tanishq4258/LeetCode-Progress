@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1338-reduce-array-size-to-the-half) |
 | [1710-maximum-units-on-a-truck](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 | [2498-frog-jump-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2498-frog-jump-ii) |
 | [2574-left-and-right-sum-differences](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2574-left-and-right-sum-differences) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2402-meeting-rooms-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2402-meeting-rooms-iii) |
 ## Two Pointers
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
