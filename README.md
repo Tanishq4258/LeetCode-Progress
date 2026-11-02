@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0518-coin-change-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -338,5 +341,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0518-coin-change-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
