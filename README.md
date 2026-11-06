@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0767-reorganize-string) |
 | [1079-letter-tile-possibilities](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1079-letter-tile-possibilities) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
