@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0169-majority-element) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
