@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0561-array-partition) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
+| [0523-continuous-subarray-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0991-broken-calculator) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/1248-count-number-of-nice-subarrays) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0692-top-k-frequent-words) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0713-subarray-product-less-than-k) |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0279-perfect-squares) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Tanishq4258/LeetCode-Progress/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
